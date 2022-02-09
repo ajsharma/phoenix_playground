@@ -2,4 +2,4 @@
 
 set -euxo pipefail
 
-# TODO
+mix ecto.create
